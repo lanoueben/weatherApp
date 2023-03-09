@@ -1,7 +1,6 @@
 let weather = {
     apiKey:"3ea056ae09b07524dba3e5954b38a24b",
-    //@17:46 in video
-    //@24:00 gotta find out how to link 2 functions properly
+
 
 
     fetchCoord: function(city){
